@@ -1,0 +1,10 @@
+{
+  "extends": "next/core-web-vitals", // Include Next.js defaults
+  "rules": {
+    // Other ESLint rules you might want to customize:
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }], // If using TypeScript
+    "no-console": "warn", // Allow console.log for development, but warn
+    // ...add more rules as needed
+    "react/no-unescaped-entities": "off" // Disable the rule, if needed
+  }
+}
