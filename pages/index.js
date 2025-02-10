@@ -37,10 +37,7 @@ export default function Home() {
           name="keywords"
           content="Software Engineer, Digital Marketer, web developer,Freelance web developer,react web developer, Ashwin Kumar,"
         />
-        <meta
-          name="google-site-verification"
-          content="2JiSX7E5qG08N5uRVo_unzYtuOoyU741bNi--funpxc"
-        />
+        <meta name="google-site-verification" content="EHLVWOQQnwmifhxy_Md069atnVWJIn0QeOjrLENwmPc" />
       </Head>
       <div className="min-h-screen px-3 sm:px-5 scroll-smooth ">
         <Particalsbackground />
